@@ -364,4 +364,4 @@ npx expo start
 
 **Sıla Kebapcı**
 
-silakebapci@gmail.com
+silakebapcii@gmail.com
